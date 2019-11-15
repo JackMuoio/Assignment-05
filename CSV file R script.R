@@ -1,0 +1,1 @@
+DF <- data.table::fread(CPIAUCSL)
